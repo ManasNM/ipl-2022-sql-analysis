@@ -11,7 +11,7 @@ This project analyzes the 2022 IPL season using SQL Server. We explore match out
 
 ## 🔧 Tools Used
 - SQL Server Management Studio (SSMS)
-- T-SQL
+- T-SQL (Transact-SQL used mainly writing queries in SQL Server (including in SSMS))
 
 ## 🗂 Files Included
 
