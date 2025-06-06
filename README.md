@@ -1,3 +1,4 @@
+
 # IPL 2022 SQL Analysis Project
 
 ## 📊 Project Summary
@@ -11,6 +12,14 @@ This project analyzes the 2022 IPL season using SQL Server. We explore match out
 ## 🔧 Tools Used
 - SQL Server Management Studio (SSMS)
 - T-SQL
+
+## 🗂 Files Included
+
+| File Name                             | Description                                                  |
+|---------------------------------------|--------------------------------------------------------------|
+| `Cleaned_IPL_2022.csv`                | Main dataset with IPL 2022 match data                        |
+| `IPL_2022_SQL_Project.sql`            | SQL script with all analytical queries used in the project   |
+| `IPL_2022_Attribute_Explanation.docx` | Description of all dataset attributes for documentation      |
 
 ## ✅ Analysis Covered
 - Total matches played
@@ -34,4 +43,3 @@ This project analyzes the 2022 IPL season using SQL Server. We explore match out
 ## 📌 Author
 Manas Nayan Mukherjee  
 [LinkedIn](https://www.linkedin.com/in/manas-nayan-mukherjee-3b5a0820a)
-
